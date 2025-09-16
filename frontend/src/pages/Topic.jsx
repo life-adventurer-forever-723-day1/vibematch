@@ -1,0 +1,2 @@
+import { useParams } from "react-router-dom";
+export default function Topic(){ const {id}=useParams(); return (<div className="container"><div className="card"><h3>Topic {id}</h3><p className="small">Topic details + answers UI will go here.</p></div></div>) }

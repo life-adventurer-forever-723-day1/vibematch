@@ -1,0 +1,1 @@
+export default function Messages(){ return (<div className="container"><div className="card"><h3>Messages</h3><p className="small">Simple messages UI — works after login.</p></div></div>) }
